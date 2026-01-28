@@ -1,9 +1,9 @@
 [TO CHART]
-JAN 28-JAN 30
-all-falls-down
-space-ship
-breathe-in-breathe-out
-through-the-wire
-we-dont-care
-school-spirit
-intro
+JAN 28-JAN 30:
+1. all-falls-down
+2. space-ship
+3. breathe-in-breathe-out
+4. through-the-wire
+5. we-dont-care
+6. school-spirit
+7. intro
